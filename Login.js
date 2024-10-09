@@ -34,7 +34,7 @@ const Login = () => {
 
     return (
         <View style={styles.container}>
-            <Image source={require("./assets/DATA/Image 20.png")} style={styles.imageLogin} />
+            <Image source={require("./assets/DATA/Image20.png")} style={styles.imageLogin} />
             <Text style={styles.title}>Chào mừng!</Text>
 
             <View style={styles.inputContainer}>

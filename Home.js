@@ -9,7 +9,7 @@ const Home = ({navigation}) => {
       justifyContent:'center',
       backgroundColor:'#f5f5f5'
     }}>
-        <Image source={require("./assets/DATA/Container 17.png")}/>
+        <Image source={require("./assets/DATA/Container17.png")}/>
         <Text style={{fontSize:20, fontWeight:700, marginTop:18, marginLeft:40, textAlign: 'left', width: '100%'
         }}>Boost Productivity</Text>
         <Text style={{marginLeft:40,marginTop:13, textAlign: 'left', width: '100%'}}>Simplify tasks, boost productivity</Text>

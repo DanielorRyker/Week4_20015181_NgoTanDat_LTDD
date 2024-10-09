@@ -8,7 +8,7 @@ const Payments = () => {
     {
       id: 1,
       name: 'Product 1',
-      image: require('./assets/DATA/Image 7 (1).png'),
+      image: require('./assets/DATA/Image7(1).png'),
       price: 2.99,
       description: 'Occaecat cupidatat non proident.',
       rating: 4.5,
@@ -16,7 +16,7 @@ const Payments = () => {
     {
       id: 2,
       name: 'Product 2',
-      image: require('./assets/DATA/Image 7.png'),
+      image: require('./assets/DATA/Image7.png'),
       price: 3.99,
       description: 'Occaecat cupidatat non proident.',
       rating: 4,
@@ -24,7 +24,7 @@ const Payments = () => {
     {
       id: 3,
       name: 'Product 3',
-      image: require('./assets/DATA/Image 7 (2).png'),
+      image: require('./assets/DATA/Image7(2).png'),
       price: 5.99,
       description: 'Occaecat cupidatat non proident.',
       rating: 4.4,
@@ -32,7 +32,7 @@ const Payments = () => {
     {
       id: 4,
       name: 'Product 4',
-      image: require('./assets/DATA/Image 7 (4).png'),
+      image: require('./assets/DATA/Image7(4).png'),
       price: 3.99,
       description: 'Occaecat cupidatat non proident.',
       rating: 5,

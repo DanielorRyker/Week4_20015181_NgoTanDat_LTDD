@@ -77,7 +77,7 @@ const SignUp = ({ navigation }) => {
     >
       <View style={styles.container}>
         <View style={styles.header}>
-          <Image source={require("./assets/DATA/Image 19.png")} style={styles.image} />
+          <Image source={require("./assets/DATA/Image19.png")} style={styles.image} />
           <Text style={styles.title}>Rất vui được gặp bạn!</Text>
           <Text style={styles.subtitle}>Tạo tài khoản của bạn</Text>
         </View>
